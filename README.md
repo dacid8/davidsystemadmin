@@ -1,4 +1,4 @@
-<h1>Hi, I'm David Ruiz! <br/><a href="https://github.com/druizadmin">System Administrator</a>, <a href="https://www.linkedin.com/in/david-ruiz-10274b210">System Administrator</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm David Ruiz! <br/><a href="https://github.com/druizadmin">System Administrator</a>, <a href="https://www.linkedin.com/in/david-ruiz-10274b210">LinkedIn</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
